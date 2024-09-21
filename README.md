@@ -47,7 +47,7 @@ Let’s connect and collaborate to build something impactful together!
 - 📫 How to reach me:
   - **akashkalshetti46@outlook.com**
 
-<p align="left"> <a href="https://www.linkedin.com/in/akash-kalshetti/" target="blank">LinkedIn</a> | <a href="https://github.com/akash-21-ak" target="blank">GitHub</a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/akash-kalshetti/" target="blank">LinkedIn</a> | <a href="https://github.com/akash-45-ak" target="blank">GitHub</a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
